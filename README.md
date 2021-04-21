@@ -1,7 +1,7 @@
 # 시군별 세출예산 정리 자동화 프로그램
 
 ## 프로그램 설명
-> C# Windows Forms 앱(.NetFrameWork)으로 작성하여 구현한 데이터 파싱 프로그램
+> C# Windows Forms 앱(.NetFrameWork)으로 작성하여 구현한 데이터 파싱 프로그램  
 > PDF 서드파티 라이브러리 iTextSharp, 액셀 라이브러리 Microsoft.Office.Interop.Excel 사용
 > 비주얼 스튜디오 2019 C# 환경 사용
 > iTextSharp 라이브러리 사용: 세출예산서 PDF를 C# 언어로 읽어들이기 위함
