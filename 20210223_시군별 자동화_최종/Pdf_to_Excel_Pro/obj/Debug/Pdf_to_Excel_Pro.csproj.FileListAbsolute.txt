@@ -122,3 +122,19 @@ C:\Users\impacsys\Desktop\(집)시군별 - 메인폴더 0215\Pdf_to_Excel_Pro\bi
 C:\Users\impacsys\Desktop\(집)시군별 - 메인폴더 0215\Pdf_to_Excel_Pro\bin\Debug\Pdf_to_Excel_Pro.application
 C:\Users\impacsys\Desktop\(집)시군별 - 메인폴더 0215\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.exe.manifest
 C:\Users\impacsys\Desktop\(집)시군별 - 메인폴더 0215\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.application
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\bin\Debug\Pdf_to_Excel_Pro.exe.config
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\bin\Debug\Pdf_to_Excel_Pro.exe.manifest
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\bin\Debug\Pdf_to_Excel_Pro.application
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\bin\Debug\Pdf_to_Excel_Pro.exe
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\bin\Debug\Pdf_to_Excel_Pro.pdb
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.csprojAssemblyReference.cache
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.csproj.ResolveComReference.cache
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.Form1.resources
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.Properties.Resources.resources
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.csproj.GenerateResource.cache
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.csproj.CoreCompileInputs.cache
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.exe.manifest
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.application
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.csproj.CopyComplete
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.exe
+D:\자료모음\2020 동계_임팩시스_전략기획실_인턴자료\시군별 세출예산 정리 자동화 프로그램\AutomationProgramForOrganizingExpenditureBudgets\20210223_시군별 자동화_최종\Pdf_to_Excel_Pro\obj\Debug\Pdf_to_Excel_Pro.pdb
