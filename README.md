@@ -10,10 +10,12 @@
 >> 3. Windows Forms 앱(.NET Framework)으로 사용자 인터페이스와 애플리케이션 작성  
 
 ## 파싱할 PDF 파일 형식
-> http://www.provin.gangwon.kr/gw/portal/sub06_06_07_19 해당 URL의 사업명세서 PDF 파일 형식 참조
+> [강원도 세출예산사업명세서]  
+> 해당 URL의 사업명세서 PDF 파일 형식 참조
 ------------
 ## 입력 예시
 ![화면 캡처 2021-04-21 191521](https://user-images.githubusercontent.com/70702088/115537622-f6f64300-a2d5-11eb-8825-50529b2541f2.png)
 ## 결과 예시
 ![화면 캡처 2021-04-21 192736](https://user-images.githubusercontent.com/70702088/115539223-ac75c600-a2d7-11eb-878f-7cc7ac673bfb.png)
 
+[강원도 세출예산사업명세서] : http://www.provin.gangwon.kr/gw/portal/sub06_06_07_19
